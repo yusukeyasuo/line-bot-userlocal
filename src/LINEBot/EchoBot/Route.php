@@ -116,7 +116,7 @@ class Route
                 error_log(print_r($res, true));
 
                 $replyText = $reply_message = $res->result;
-*/
+//*/
 
                 $logger->info('Reply text: ' . $replyText);
                 $resp = $bot->replyText($event->getReplyToken(), $replyText);
