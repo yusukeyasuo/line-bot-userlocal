@@ -1,0 +1,12 @@
+{
+  "name": "hirarin-line-bot",
+  "repository": "https://github.com/hirarin/line-bot",
+  "env": {
+    "LINEBOT_CHANNEL_TOKEN": {
+      "value": ""
+    },
+    "LINEBOT_CHANNEL_SECRET": {
+      "value": ""
+    }
+  }
+}
